@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-yt-scheduler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nandun Bandara",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "node-schedule": "^1.3.1",
+    "youtube-dl": "^1.12.2"
+  }
+}
